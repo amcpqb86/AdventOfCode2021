@@ -29,9 +29,3 @@ Exercices finis :
 - [ ] Jour 23
 - [ ] Jour 24
 - [ ] Jour 25
-- [ ] Jour 26
-- [ ] Jour 27
-- [ ] Jour 28
-- [ ] Jour 29
-- [ ] Jour 30
-- [ ] Jour 31
