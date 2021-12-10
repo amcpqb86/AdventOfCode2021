@@ -1,13 +1,5 @@
-file = open("input.txt", "r")
-increases = 0
-ancientValue = 0
+# Day 1 - Part 1
 
-for line in file:
-    line = int(line)
-    if line > ancientValue :
-        increases += 1
-    ancientValue = line
+from noi import numberOfIncreases as noi
 
-print(increases-1) # On enlève 1 car le chiffre de la première ligne sera forcément supérieur à 0
-
-file.close()
+print(noi("out.txt"))
