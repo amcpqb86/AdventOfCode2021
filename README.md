@@ -34,3 +34,4 @@ Exercices finis :
 - [ ] Jour 28
 - [ ] Jour 29
 - [ ] Jour 30
+- [ ] Jour 31
