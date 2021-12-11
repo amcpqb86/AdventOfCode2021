@@ -5,7 +5,7 @@ Mes propositions pour le [calendrier de l'avent du code](https://adventofcode.co
 Exercices finis :
 
 - [x] Jour 1
-- [ ] Jour 2
+- [x] Jour 2
 - [ ] Jour 3
 - [ ] Jour 4
 - [ ] Jour 5
